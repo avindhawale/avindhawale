@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avin Dhawale</h1>
-<h3 align="center">Frontend UI Architect | Angular | React | Enterprise Application Development</h3>
+<h3 align="center">Frontend UI Developer | Angular | React | Enterprise Application Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avindhawale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
